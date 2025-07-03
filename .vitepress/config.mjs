@@ -38,9 +38,9 @@ export default defineConfig({
       ]
     },
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/zhiqing0205/PatternRecognition' }
-    ],
+    // socialLinks: [
+    //   { icon: 'github', link: 'https://github.com/zhiqing0205/PatternRecognition' }
+    // ],
 
     footer: {
       message: '模式识别课程学习笔记',
@@ -56,10 +56,10 @@ export default defineConfig({
       label: '页面导航'
     },
 
-    editLink: {
-      pattern: 'https://github.com/zhiqing0205/PatternRecognition/edit/master/:path',
-      text: '在 GitHub 上编辑此页'
-    }
+    // editLink: {
+    //   pattern: 'https://github.com/zhiqing0205/PatternRecognition/edit/master/:path',
+    //   text: '在 GitHub 上编辑此页'
+    // }
   },
 
   markdown: {
